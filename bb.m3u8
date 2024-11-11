@@ -1,0 +1,12 @@
+#EXTM3U
+#EXT-X-TARGETDURATION:20
+#EXTINF:4,
+http://tv.cloudcdn.me:80/live.ts?channelId=48010&uid=6469&deviceMac=00:1A:79:B7:2F:EA
+#EXTINF:4,
+http://tv.cloudcdn.me:80/live.ts?channelId=48010&uid=6469&deviceMac=00:1A:79:B7:2F:EA
+#EXTINF:4,
+http://tv.cloudcdn.me:80/live.ts?channelId=48010&uid=6469&deviceMac=00:1A:79:B7:2F:EA
+#EXTINF:4,
+http://tv.cloudcdn.me:80/live.ts?channelId=48010&uid=6469&deviceMac=00:1A:79:B7:2F:EA
+#EXTINF:4,
+http://tv.cloudcdn.me:80/live.ts?channelId=48010&uid=6469&deviceMac=00:1A:79:B7:2F:EA
